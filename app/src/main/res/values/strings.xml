@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab8</string>
+    <string name="menu_item_1_title">Choice 1</string>
+    <string name="menu_item_2_title">Choice 2</string>
+    <string name="menu_item_overflow_title">More Options</string>
+    <string name="nav_header_title">My App</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_dadjoke">Dad Joke</string>
+    <string name="nav_item_exit">Exit</string>
+    <string name="dad_joke_text">Why do chicken coops only have two doors? Because if they had four, they would be a chicken sedan!</string>
+
+</resources>
